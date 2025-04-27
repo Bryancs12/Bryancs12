@@ -1,10 +1,10 @@
-# 👋 Hola, soy Bryan
+# 👋 Hi, I'm Bryan
 
-🎓 Estudiante de Ingeniería en Computación en la **Universidad de Costa Rica (UCR)**, actualmente en mi último año de carrera.
+🎓 Computer Engineering student at the **University of Costa Rica (UCR)**, currently in my final year.
 
-💻 Apasionado por el desarrollo web y la creación de soluciones innovadoras. Me encanta explorar nuevas tecnologías y mejorar continuamente mis habilidades.
+💻 Passionate about web development and creating innovative solutions. I love exploring new technologies and constantly improving my skills.
 
-## 🚀 Tecnologías con las que he trabajado
+## 🚀 Technologies I have worked with
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
@@ -19,13 +19,13 @@
 
 ![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryancs12&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryancs12&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryancs12&layout=compact&theme=tokyonight)
 
 ## 🎮 Hobbies
-- Jugar videojuegos 🎮
-- Ver anime y series 📺
-- Aprender nuevas tecnologías y frameworks 🛠️
+- Playing video games 🎮
+- Watching anime and TV series 📺
+- Learning new technologies and frameworks 🛠️
 
-## 📫 ¿Cómo contactarme?
-- **Correo:** [tuemail@correo.com](mailto:tuemail@correo.com)
-- **LinkedIn:** [TuLinkedIn](https://linkedin.com/in/TuUsuario)
+## 📫 How to reach me
+- **Email:** [Email](bryancors.12@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bryan-cortes-130a92244/)
