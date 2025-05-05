@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student at the **University of Costa Rica (UCR)**, currently in my final year.
 
-💻 Passionate about web development and creating innovative solutions. I love exploring new technologies and constantly improving my skills.
+💻 I'm interested in web development and enjoy exploring tools and technologies that help me improve and grow as a developer.
 
 ## 🚀 Technologies I have worked with
 
@@ -17,9 +17,12 @@
 
 ## 📊 GitHub Stats
 
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryancs12&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryancs12&show_icons=true&theme=tokyonight" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryancs12&layout=compact&theme=tokyonight" width="39.7%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryancs12&layout=compact&theme=tokyonight)
+
 
 ## 🎮 Hobbies
 - Playing video games 🎮
@@ -27,5 +30,5 @@
 - Learning new technologies and frameworks 🛠️
 
 ## 📫 How to reach me
-- **Email:** [Email](bryancors.12@gmail.com)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bryan-cortes-130a92244/)
+-  [Email](bryancors.12@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/bryan-cortes-130a92244/)
