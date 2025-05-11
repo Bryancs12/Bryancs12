@@ -16,7 +16,6 @@
 
 ## 🚀 Currently Learning
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-1B1F23?style=for-the-badge&logo=astro&logoColor=white)
 
