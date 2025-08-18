@@ -19,7 +19,7 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-4F46E5?style=for-the-badge&logo=filamentphp&logoColor=white)
-
+![Filament](https://img.shields.io/badge/Filament-4F46E5?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📊 GitHub Stats
 
