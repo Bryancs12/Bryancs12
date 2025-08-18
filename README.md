@@ -18,8 +18,7 @@
 ## 🚀 Currently Learning
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-4F46E5?style=for-the-badge&logo=filamentphp&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-4F46E5?style=for-the-badge&logo=php&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-4F46E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xMDAgMTYyLjVDMTM0LjIgMTYyLjUgMTYyLjUgMTM0LjIgMTYyLjUgMTAwQzE2Mi41IDY1LjggMTM0LjIgMzcuNSAxMDAgMzcuNUM2NS44IDM3LjUgMzcuNSA2NS44IDM3LjUgMTAwQzM3LjUgMTM0LjIgNjUuOCAxNjIuNSAxMDAgMTYyLjVaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTI0LjUgODUuNUwxMDAgMTEwTDc1LjUgODUuNUwxMDAgNjFMMTI0LjUgODUuNVoiIGZpbGw9IiM0RjQ2RTUiLz4KPHBhdGggZD0iTTEwMCAxMzlMMTM5IDEwMEwxMDAgNjFMNjEgMTAwTDEwMCAxMzlaIiBmaWxsPSIjNEY0NkU1Ii8+Cjwvc3ZnPg==&logoColor=white)
 
 ## 📊 GitHub Stats
 
