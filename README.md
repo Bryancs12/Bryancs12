@@ -36,4 +36,4 @@
 
 ## 📫 How to reach me
 -  [Email](bryancors.12@gmail.com)
--  [LinkedIn](https://www.linkedin.com/in/bryan-cortes-130a92244/)
+-  [LinkedIn](https://www.linkedin.com/in/bryancortes-bcs/)
