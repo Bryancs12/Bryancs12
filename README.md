@@ -31,7 +31,8 @@
 ## Hobbies
 - Playing video games 
 - Watching anime and TV series 
-- Learning new technologies and frameworks 
+- Learning new technologies and frameworks
+- Studying design patterns and software architecture 
 
 ##  How to reach me
 -  [Email](bryancors.12@gmail.com)
