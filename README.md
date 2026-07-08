@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Bryan
 
-🎓 Computer Engineering student at the **University of Costa Rica (UCR)**, currently in my final year.
-
 💻 I'm interested in web development and enjoy exploring tools and technologies that help me improve and grow as a developer.
 
 ## 🚀 Technologies I have worked with
