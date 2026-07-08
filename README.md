@@ -1,24 +1,25 @@
 # 👋 Hi, I'm Bryan
 
-💻 I'm interested in web development and enjoy exploring tools and technologies that help me improve and grow as a developer.
+ I'm interested in web development and enjoy exploring tools and technologies that help me improve and grow as a developer.
 
 ## 🚀 Technologies I have worked with
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-## 🚀 Currently Learning
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-4F46E5?style=for-the-badge&logo=filamentphp&logoColor=white)
 
-## 📊 GitHub Stats
+## 🚀 Currently Learning
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bryancs12&show_icons=true&theme=tokyonight" width="44%" />
@@ -27,11 +28,11 @@
 
 
 
-## 🎮 Hobbies
-- Playing video games 🎮
-- Watching anime and TV series 📺
-- Learning new technologies and frameworks 🛠️
+## Hobbies
+- Playing video games 
+- Watching anime and TV series 
+- Learning new technologies and frameworks 
 
-## 📫 How to reach me
+##  How to reach me
 -  [Email](bryancors.12@gmail.com)
 -  [LinkedIn](https://www.linkedin.com/in/bryancortes-bcs/)
