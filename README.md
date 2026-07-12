@@ -16,7 +16,9 @@
 ![Filament](https://img.shields.io/badge/Filament-4F46E5?style=for-the-badge&logo=filamentphp&logoColor=white)
 
 ## 🚀 Currently Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
 
 ## GitHub Stats
